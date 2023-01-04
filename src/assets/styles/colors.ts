@@ -2,7 +2,7 @@ export const colors = {
   primaryColor: "#6CEA69",
   secondaryColor: "#E26B6B",
 
-  primaryColorOpacity: "rgba(108, 234, 105, 0.4)",
+  primaryColorOpacity: "rgba(108, 234, 105, 0.4)",// opacidade 
 
   shadowColor: "#6CEA69",
 
